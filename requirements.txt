@@ -18,10 +18,6 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
-python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
-regex @ file:///C:/ci/regex_1593419644658/work
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 streamlit==0.75.0
 
 
